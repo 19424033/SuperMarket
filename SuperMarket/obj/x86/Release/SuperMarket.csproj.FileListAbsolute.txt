@@ -1,0 +1,215 @@
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.exe.config
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.exe
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.pdb
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.SqlServer.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignColors.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.xml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.SqlServer.xml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignColors.pdb
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csprojAssemblyReference.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\BanHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\DanhSachKH_SP.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\DuyetThongBao.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\KhachHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Kho.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\LapHoaDon.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ListDS.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Login.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Market.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhaCungCapList.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhanVien.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhapHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhapHangBC.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Number.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Password.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\QuanLy.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SanPham.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\TaoPhieuNhapKho.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThanhToan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThongBaoNhapHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThongKeXuatNhap.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThongTinTaiKhoan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThuNgan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\TonHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\UpdateQuan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\XemThongBaoNH.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\App.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_Content.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_MarkupCompile.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_MarkupCompile.lref
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\App.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\BanHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\DanhSachKH_SP.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\DuyetThongBao.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\KhachHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Kho.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\LapHoaDon.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ListDS.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Login.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Market.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhaCungCapList.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhanVien.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhapHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\NhapHangBC.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Number.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\Password.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\QuanLy.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SanPham.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\TaoPhieuNhapKho.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThanhToan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThongBaoNhapHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThongKeXuatNhap.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThongTinTaiKhoan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\ThuNgan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\TonHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\UpdateQuan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\XemThongBaoNH.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.g.resources
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.Properties.Resources.resources
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.GenerateResource.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.CoreCompileInputs.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.CopyComplete
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.exe
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.pdb
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.exe.config
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.exe
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.pdb
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.dll
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignColors.dll
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.xml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignColors.pdb
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csprojAssemblyReference.cache
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\BanHang.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\DanhSachKH_SP.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\KhachHang.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Kho.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\LapHoaDon.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ListDS.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Login.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Market.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhaCungCapList.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhanVien.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHang.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHangBC.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Number.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\QuanLy.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SanPham.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\TaoPhieuNhapKho.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThanhToan.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongKeXuatNhap.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongTinTaiKhoan.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThuNgan.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\TonHang.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\UpdateQuan.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\App.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_Content.g.cs
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_MarkupCompile.cache
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_MarkupCompile.lref
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\App.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\BanHang.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\DanhSachKH_SP.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\KhachHang.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Kho.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\LapHoaDon.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ListDS.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Login.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Market.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhaCungCapList.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhanVien.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHang.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHangBC.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\Number.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\QuanLy.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SanPham.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\TaoPhieuNhapKho.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThanhToan.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongKeXuatNhap.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongTinTaiKhoan.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\ThuNgan.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\TonHang.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\UpdateQuan.baml
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.g.resources
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.Properties.Resources.resources
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.GenerateResource.cache
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.CopyComplete
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.exe
+C:\Users\SpeedPOS\Downloads\10_19424011_19424031_19424033\10_19424011_19424031_19424033\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.pdb
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.exe.config
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.exe
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\SuperMarket.pdb
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.dll
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.SqlServer.dll
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignColors.dll
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.dll
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.xml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\EntityFramework.SqlServer.xml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignColors.pdb
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.pdb
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\bin\x86\Release\MaterialDesignThemes.Wpf.xml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csprojAssemblyReference.cache
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\BanHang.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\DanhSachKH_SP.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\KhachHang.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Kho.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\LapHoaDon.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ListDS.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Login.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Market.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhaCungCapList.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhanVien.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHang.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHangBC.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Number.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\QuanLy.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SanPham.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\TaoPhieuNhapKho.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThanhToan.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongKeXuatNhap.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongTinTaiKhoan.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThuNgan.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\TonHang.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\UpdateQuan.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\App.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_Content.g.cs
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_MarkupCompile.cache
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket_MarkupCompile.lref
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\App.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\BanHang.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\DanhSachKH_SP.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\KhachHang.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Kho.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\LapHoaDon.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ListDS.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Login.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Market.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhaCungCapList.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhanVien.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHang.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\NhapHangBC.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\Number.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\QuanLy.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SanPham.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\TaoPhieuNhapKho.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThanhToan.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongKeXuatNhap.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThongTinTaiKhoan.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\ThuNgan.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\TonHang.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\UpdateQuan.baml
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.g.resources
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.Properties.Resources.resources
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.GenerateResource.cache
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.csproj.CopyComplete
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.exe
+C:\Users\SpeedPOS\Desktop\Src\SuperMarket\SuperMarket\obj\x86\Release\SuperMarket.pdb

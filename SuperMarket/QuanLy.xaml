@@ -1,0 +1,26 @@
+﻿<UserControl x:Class="SuperMarket.QuanLy"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SuperMarket"
+             mc:Ignorable="d" 
+             d:DesignHeight="600" d:DesignWidth="1080" >
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="15*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Button Name="btnQLNV" Content="Quản Lý Nhân Viên" Foreground="Black" Background="DeepSkyBlue" Width="216" Click="BtnQLNV_Click" IsEnabled="False"/>
+            <Button Name="btnQLSP"  Content="Quản Lý Sản Phẩm"  Foreground="Black" Background="White" Width="216" Click="BtnQLSP_Click"/>
+            <Button Name="btnLHNH"  Content="Tạo Phiếu Hàng"  Foreground="Black" Background="White" Width="216" Click="BtnLHNH_Click" />
+            <Button Name="btnKH"  Content="Khách Hàng"  Foreground="Black" Background="White" Width="216" Click="BtnKH_Click"/>
+            <Button Name="btnDTXN"  Content="Thống Kê Xuất Nhập Tồn"  Foreground="Black" Background="White" Width="216" Click="BtnDTXN_Click"/>
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <Grid Name="GridMain">
+            </Grid>
+        </DockPanel>
+    </Grid>
+</UserControl>

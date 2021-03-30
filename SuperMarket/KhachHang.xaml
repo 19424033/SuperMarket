@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="SuperMarket.KhachHang"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SuperMarket"
+             mc:Ignorable="d" 
+             d:DesignHeight="540" d:DesignWidth="1080">
+    <Grid Height="540" VerticalAlignment="Bottom">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <DockPanel Grid.Row="0">
+                    <TextBlock Text="Họ Tên: " FontSize="18" Width="80" Margin="10 5 5 0"/>
+                    <TextBox Name="txtName" Width="180" FontSize="18"/>
+                    <TextBlock Text="Số ĐT: " FontSize="18" Width="80" Margin="10 5 5 0"/>
+                    <TextBox Name="txtDT" Width="110" FontSize="18"/>
+                    <TextBlock Text="Địa Chỉ: " FontSize="18" Width="80" Margin="10 5 5 0"/>
+                    <TextBox  Name="txtDiaChi" Width="180" FontSize="18"/>
+                </DockPanel>
+                <DockPanel Grid.Row="1">
+                    <Grid Margin="0 10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                            <ColumnDefinition Width="*"/>
+                        </Grid.ColumnDefinitions>
+                        <DockPanel Grid.Column="0">
+                            <Button Name="btnAddKH" Click="BtnAddKH_Click" Content="Thêm" Width="100" IsEnabled="True" Height="32" VerticalAlignment="Bottom"/>
+                        </DockPanel>
+                        <DockPanel Grid.Column="1">
+                            <Button Name="btnUpdateKH" Content="Cập Nhật" Width="100" IsEnabled="False" Click="BtnUpdateKH_Click"/>
+                        </DockPanel>
+                        <DockPanel Grid.Column="2">
+                            <Button Name="btnCancelKH" Content="Hủy" Width="100" IsEnabled="False" Background="Red" Click="BtnCancelKH_Click"/>
+                        </DockPanel>
+                    </Grid>
+                </DockPanel>
+            </Grid>
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <StackPanel Orientation="Vertical">
+                    <Canvas Name="filterCanvas" Height="30">
+                        <TextBlock Name="hintText" Padding="5" Text="Tìm kiếm nhanh theo tên:" DockPanel.Dock="Left" Foreground="Black" FontWeight="Bold" FontSize="15"/>
+                        <TextBox Height="30"  Foreground="Black" FontWeight="Bold" FontSize="15"    TextChanged="KeywordTextBox_TextChanged"
+                                 GotFocus="KeywordTextBox_GotFocus" LostFocus="KeywordTextBox_LostFocus"
+                         Background="Transparent"  Width="{Binding ElementName=filterCanvas, Path=ActualWidth}" Name="keywordTextBox" Text="" Padding="3, 0, 0, 0" />
+                    </Canvas>
+                    <DataGrid Name="DataKH" AutoGenerateColumns="False" IsReadOnly="True" ColumnWidth="*"
+                              SelectedCellsChanged="DataKH_SelectedCellsChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Width="130" Header="Mã KH" Binding="{Binding Path=MaKH}"/>
+                            <DataGridTextColumn Width="230" Header="Họ tên" Binding="{Binding Path=TenKH}"/>
+                            <DataGridTextColumn Width="190" Header="Số Điện Thoại" Binding="{Binding Path=SoDienThoai}" />
+                            <DataGridTextColumn Width="200" Header="Địa Chỉ" Binding="{Binding Path=DiaChi}"/>
+                            <DataGridTextColumn Width="150" Header="Ngày Lập Thẻ" Binding="{Binding Path=NgayLapThe, StringFormat='dd-MM-yyyy'}"/>
+                            <DataGridTextColumn Width="150" Header="Điểm Tích Lũy" Binding="{Binding Path=DiemThuongTichLuy}"/>
+
+                    </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            <!--</GroupBox>-->
+        </DockPanel>
+    </Grid>
+</UserControl>

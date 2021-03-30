@@ -1,0 +1,74 @@
+﻿<UserControl x:Class="SuperMarket.BanHang"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SuperMarket"
+             mc:Ignorable="d" 
+             d:DesignHeight="485" d:DesignWidth="1080">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="10*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <StackPanel DockPanel.Dock="Top" Orientation="Horizontal" HorizontalAlignment="Center" Height="30">
+                <Label Content="Từ Ngày: " VerticalAlignment="Center"/>
+                <DatePicker x:Name="timeS"  Width="100" VerticalAlignment="Center" SelectedDateChanged="TimeS_SelectedDateChanged" FontSize="16" FontFamily="Sitka Banner" FirstDayOfWeek="Monday" Foreground="#FFF00707" FontWeight="Bold"/>
+                <Label Content="Đến Ngày: " VerticalAlignment="Center" Margin="50 0 0 0" />
+                <DatePicker x:Name="timeE" Width="100" VerticalAlignment="Center" SelectedDateChanged="TimeE_SelectedDateChanged" FontSize="16" FontFamily="Sitka Banner" FirstDayOfWeek="Monday" Foreground="#FFF00707" FontWeight="Bold"/>
+            </StackPanel>
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="*"/>
+                    <RowDefinition Height="20"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <DockPanel Grid.Row="0">
+                    <TextBlock Text="Hóa Đơn" FontFamily="Times New Roman" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#FF3AA2E0"/>
+                </DockPanel>
+                <DockPanel Grid.Row="1">
+                    <Border BorderBrush="Black" BorderThickness="1"  CornerRadius="4">
+                        <ListView Name="LV" SelectionChanged="LV_SelectionChanged"
+                              ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Width="150" Header="Số Hóa Đơn" DisplayMemberBinding="{Binding MaHD}"/>
+                                    <GridViewColumn Width="180" Header="Ngày Hóa Đơn" DisplayMemberBinding="{Binding NgayLapHD,StringFormat='dd-MM-yyyy'}"/>
+                                    <GridViewColumn Width="200" Header="Tổng Tiền" DisplayMemberBinding="{Binding ThanhTien}"/>
+                                    <GridViewColumn Width="200" Header="Hình Thức Thanh Toán" DisplayMemberBinding="{Binding TenHinhThucTT}"/>
+                                    <GridViewColumn Width="180" Header="Khách Hàng" DisplayMemberBinding="{Binding TenKH}"/>
+                                    <GridViewColumn Header="Điểm Thưởng" DisplayMemberBinding="{Binding DiemThuong}"/>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Border>
+                </DockPanel>
+                <DockPanel Grid.Row="2">
+                    <TextBlock Text="Chi Tiết Hóa Đơn" FontFamily="Times New Roman" FontSize="20" FontWeight="Bold" HorizontalAlignment="Center" Foreground="#FF3AA2E0"/>
+                </DockPanel>
+                <DockPanel Grid.Row="3">
+                    <DockPanel>
+                        <Border BorderBrush="Black" BorderThickness="1"  CornerRadius="4">
+                            <ListView Name="LVDetail" ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                <ListView.View>
+                                    <GridView>
+                                        <GridViewColumn Width="150" Header="Số Thứ Tự" DisplayMemberBinding="{Binding STT}"/>
+                                        <GridViewColumn Width="200" Header="Tên Sản Phẩm" DisplayMemberBinding="{Binding tenSP}"/>
+                                        <GridViewColumn Width="150" Header="Số Lượng" DisplayMemberBinding="{Binding soLuong}"/>
+                                        <GridViewColumn Width="200" Header="Đơn Giá" DisplayMemberBinding="{Binding donGia}"/>
+                                        <GridViewColumn Width="200" Header="Thành Tiền" DisplayMemberBinding="{Binding thanhTien}"/>
+                                        <GridViewColumn Width="200" Header="Khuyến Mãi" DisplayMemberBinding="{Binding discount}"/>
+                                    </GridView>
+                                </ListView.View>
+                            </ListView>
+                        </Border>
+                    </DockPanel>
+                </DockPanel>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</UserControl>

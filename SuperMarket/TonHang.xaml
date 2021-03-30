@@ -1,0 +1,60 @@
+﻿<UserControl x:Class="SuperMarket.TonHang"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SuperMarket"
+             mc:Ignorable="d" 
+             d:DesignHeight="450" d:DesignWidth="1080">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Border BorderBrush="Black" BorderThickness="1">
+                <Canvas Name="filterCanvas" >
+                    <TextBlock Name="hintText" Padding="5" Text="Tìm kiếm nhanh theo tên:" DockPanel.Dock="Left" Foreground="Black" FontWeight="Bold"/>
+                    <TextBox Height="30" Foreground="Black" FontWeight="Bold" FontSize="14"
+                        LostFocus="KeywordTextBox_LostFocus"
+                        GotFocus="KeywordTextBox_GotFocus"  Background="Transparent"  Width="{Binding ElementName=filterCanvas, Path=ActualWidth}" Name="keywordTextBox" Text="" Padding="3, 3, 0, 0" 
+                             TextChanged="KeywordTextBox_TextChanged"/>
+                </Canvas>
+            </Border>
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="0">
+                    <Border BorderBrush="Black" BorderThickness="1">
+                        <ListView Name="dataListLSP" SelectionChanged="DataListLSP_SelectionChanged">
+                            <ListView.View>
+                                <GridView >
+                                    <GridViewColumn Header="Loại Sản Phẩm" DisplayMemberBinding="{Binding TenLoaiSP}" />
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Border>
+                </DockPanel>
+                <DockPanel Grid.Column="1">
+                    <Border BorderBrush="Black" BorderThickness="1">
+                        <ListView Name="dataTon" ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                  ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Width="180" Header="Loại Sản Phẩm" DisplayMemberBinding="{Binding TenLoaiSP}" />
+                                    <GridViewColumn Width="200" Header="Mặt Sản Phẩm" DisplayMemberBinding="{Binding TenSP}" />
+                                    <GridViewColumn Width="200" Header="Giá mua"  DisplayMemberBinding="{Binding GiaMuaVao}" />
+                                    <GridViewColumn Width="200" Header="Số lượng tồn"  DisplayMemberBinding="{Binding SoLuong}"/>
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Border>
+                </DockPanel>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</UserControl>

@@ -1,0 +1,225 @@
+﻿<UserControl x:Class="SuperMarket.NhanVien"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SuperMarket"
+             mc:Ignorable="d" 
+             d:DesignHeight="540" d:DesignWidth="1080">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="0" >
+                    <GroupBox Style="{x:Null}" BorderBrush="Black" Width="540">
+                        <GroupBox.Header>
+                            <StackPanel Orientation="Horizontal" Margin="5">
+                                <TextBlock FontSize="18" Text="Thông Tin Nhân Viên" FontWeight="Bold"/>
+                                <CheckBox Name="isActiveNV" Visibility="Hidden" Content="isActive" FontSize="18" Margin="240 0 0 0" HorizontalAlignment="Right" />
+                            </StackPanel>
+                        </GroupBox.Header>
+                        <StackPanel>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="1.3*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.Column="0">
+                                    <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Họ Tên: " FontSize="18" Width="80" Margin="10 5 10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <TextBox Name="txtName" Width="180" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Ng Sinh:" FontSize="18" Width="80" Margin="10 5 10 0"/>
+                                        </StackPanel>
+                                        <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                                            <TextBox Name="txtdateBirth" Width="100" FontSize="18"/>
+                                            <CheckBox Name="checkGT" Content="Nam" VerticalAlignment="Center" Margin="30 5 0 0" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Q.Quán: " FontSize="18" Width="80" Margin="10 5 10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <TextBox  Name="txtQQ" Width="180" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                                <StackPanel Grid.Column="1">
+                                    <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Số ĐT: " FontSize="18" Width="80" Margin="10 5"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <TextBox Name="txtDT" Width="110" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Chức vụ:" FontSize="18" Width="80" Margin="10 5"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox Name="cbCV" Width="110"  Margin="0 5">
+                                            </ComboBox>
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="M.Khẩu: " FontSize="18" Width="80" Margin="10 5"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <PasswordBox Name="txtPass" Width="110" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Grid>
+                            <Grid Margin="0 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <DockPanel Grid.Column="0">
+                                    <Button Name="btnAddNV" Click="BtnAddNV_Click" Content="Thêm" Width="100" IsEnabled="True" Height="32" VerticalAlignment="Top"/>
+                                </DockPanel>
+                                <DockPanel Grid.Column="1">
+                                    <Button Name="btnUpdateNV" Content="Cập Nhật" Width="100" IsEnabled="False" Click="BtnUpdateNV_Click"/>
+                                </DockPanel>
+                                <DockPanel Grid.Column="2">
+                                    <Button Name="btnCancelNV" Content="Hủy" Width="100" IsEnabled="False" Background="Red" Click="BtnCancelNV_Click"/>
+                                </DockPanel>
+                            </Grid>
+                        </StackPanel>
+                    </GroupBox>
+                </DockPanel>
+                <DockPanel Grid.Column="1">
+                    <GroupBox Style="{x:Null}" BorderBrush="Black" Width="540">
+                        <GroupBox.Header>
+                            <StackPanel Orientation="Horizontal" Margin="5">
+                                <TextBlock FontSize="18" Text="Ca Làm Việc" FontWeight="Bold"/>
+                            </StackPanel>
+                        </GroupBox.Header>
+                        <StackPanel>
+                            <StackPanel Orientation="Horizontal" Margin="0 5">
+                                <TextBlock Text="Từ Ngày: " FontSize="18" Margin="10 5"/>
+                                <DatePicker x:Name="DateStart" Width="150" IsEnabled="False"  FontSize="18" Margin="10 0" VerticalAlignment="Center" FontFamily="Sitka Banner" Foreground="#FFF00707" FontWeight="Bold" SelectedDateChanged="DateStart_SelectedDateChanged"/>
+                            </StackPanel>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.Column="0">
+                                    <StackPanel Orientation="Horizontal" Margin="0 5">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Name="txtN1" Text="Thứ hai: " FontSize="18" Width="100" Margin="10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox IsEnabled="False" Name="cbN1" Width="50"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Name="txtN2" Text="Thứ ba: " FontSize="18" Width="100" Margin="10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox IsEnabled="False" Name="cbN2" Width="50" />
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Name="txtN3" Text="Thứ tư: " FontSize="18" Width="100" Margin="10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox IsEnabled="False" Name="cbN3" Width="50" />
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                                <StackPanel Grid.Column="1">
+                                    <StackPanel Orientation="Horizontal" Margin="0 5">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Name="txtN4" Text="Thứ năm: " FontSize="18" Width="100" Margin="10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox IsEnabled="False" Name="cbN4" Width="50" />
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Name="txtN5" Text="Thứ sáu: " FontSize="18" Width="100" Margin="10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox IsEnabled="False" Name="cbN5" Width="50" />
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 5">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Name="txtN6" Text="Thứ bảy: " FontSize="18" Width="100" Margin="10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox IsEnabled="False" Name="cbN6" Width="50" />
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                                <StackPanel Grid.Column="2">
+                                    <StackPanel Orientation="Horizontal" Margin="0 5">
+                                        <StackPanel HorizontalAlignment="Left" Margin="0 5">
+                                            <TextBlock Name="txtN7" Text="Chủ nhật: " FontSize="18" Width="100" Margin="10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right" Margin="0 5">
+                                            <ComboBox IsEnabled="False" Name="cbN7" Width="50" />
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <Button Name="updateCaLam" Content="Cập nhật" Width="100" Margin="5" IsEnabled="False" Click="UpdateCaLam_Click"/>
+                                </StackPanel>
+                            </Grid>
+                        </StackPanel>
+                    </GroupBox>
+                </DockPanel>
+            </Grid>
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <GroupBox Style="{x:Null}" BorderBrush="Black" Width="1080">
+                <GroupBox.Header>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock FontSize="18" Text="Danh Sách Nhân Viên" FontWeight="Bold"/>
+                    </StackPanel>
+                </GroupBox.Header>
+                <StackPanel Orientation="Vertical">
+                    <Canvas Name="filterCanvas" Height="30">
+                        <TextBlock Name="hintText" Padding="5" Text="Tìm kiếm nhanh theo tên:" DockPanel.Dock="Left" Foreground="Black" FontWeight="Bold" FontSize="15"/>
+                        <TextBox Height="30"  Foreground="Black" FontWeight="Bold" FontSize="15"    TextChanged="KeywordTextBox_TextChanged"
+                                 GotFocus="KeywordTextBox_GotFocus" LostFocus="KeywordTextBox_LostFocus"
+                         Background="Transparent"  Width="{Binding ElementName=filterCanvas, Path=ActualWidth}" Name="keywordTextBox" Text="" Padding="3, 0, 0, 0" />
+                    </Canvas>
+                    <DataGrid Name="DataNV" AutoGenerateColumns="False" IsReadOnly="True" ColumnWidth="*"
+                              SelectedCellsChanged="DataNV_SelectedCellsChanged">
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Width="130" Header="Mã NV" Binding="{Binding Path=MaNV}"/>
+                            <DataGridTextColumn Width="220" Header="Họ tên" Binding="{Binding Path=TenNV}"/>
+                            <DataGridTextColumn Width="150" Header="Số Điện Thoại" Binding="{Binding Path=SoDienThoai}" />
+                            <DataGridTextColumn Width="150" Header="Quê Quán" Binding="{Binding Path=QueQuan}"/>
+                            <DataGridTextColumn Width="150" Header="Ngày Sinh" Binding="{Binding Path=NgaySinh, StringFormat='dd-MM-yyyy'}"/>
+                            <DataGridCheckBoxColumn Width="100" Header="Giới Tính" Binding="{Binding Path=GioiTinh, Mode=OneWay}"/>
+                            <DataGridTextColumn Width="150" Header="Mật Khẩu" Binding="{Binding Path=MatKhau}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                </StackPanel>
+            </GroupBox>
+        </DockPanel>
+    </Grid>
+</UserControl>

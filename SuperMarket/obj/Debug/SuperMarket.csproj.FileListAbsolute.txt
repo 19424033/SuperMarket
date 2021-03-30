@@ -1,0 +1,163 @@
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\App.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket_MarkupCompile.cache
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket_MarkupCompile.lref
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.g.resources
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\Login.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\Login.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\MaterialDesignColors.dll
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\MaterialDesignColors.pdb
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\App.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CopyComplete
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\LapHoaDon.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\LapHoaDon.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\Market.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\Market.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\QuanLy.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\QuanLy.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\ThongBaoNhapHang.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\ThongBaoNhapHang.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\ThuNgan.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\ThuNgan.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\QLDT.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\QLDT.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\Kho.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\Kho.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\NhapHang.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\NhapHang.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\TaoPhieuNhapKho.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\TaoPhieuNhapKho.baml
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\ThongTinTaiKhoan.g.cs
+C:\Users\nhozp\Desktop\SuperMarket\SuperMarket\obj\Debug\ThongTinTaiKhoan.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\MaterialDesignColors.dll
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\MaterialDesignColors.pdb
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Kho.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\LapHoaDon.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Login.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Market.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\NhapHang.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\QLDT.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\QuanLy.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\TaoPhieuNhapKho.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\ThongBaoNhapHang.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\ThongTinTaiKhoan.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\ThuNgan.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\App.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket_MarkupCompile.cache
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket_MarkupCompile.lref
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\App.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Kho.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\LapHoaDon.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Login.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Market.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\NhapHang.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\QLDT.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\QuanLy.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\TaoPhieuNhapKho.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\ThongBaoNhapHang.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\ThongTinTaiKhoan.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\ThuNgan.baml
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.g.resources
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CopyComplete
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Number.g.cs
+D:\Học Tập\Liên Thông\SuperMarket\SuperMarket\obj\Debug\Number.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe.config
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\SuperMarket.exe
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\SuperMarket.pdb
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\MaterialDesignColors.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\MaterialDesignColors.pdb
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csprojAssemblyReference.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Kho.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\LapHoaDon.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Login.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Market.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhapHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Number.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\QuanLy.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\TaoPhieuNhapKho.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThongBaoNhapHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThongTinTaiKhoan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThuNgan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\App.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket_MarkupCompile.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket_MarkupCompile.lref
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\App.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Kho.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\LapHoaDon.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Login.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Market.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhapHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Number.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\QuanLy.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\TaoPhieuNhapKho.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThongBaoNhapHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThongTinTaiKhoan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThuNgan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.g.resources
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.Properties.Resources.resources
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.GenerateResource.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CoreCompileInputs.cache
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.csproj.CopyComplete
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.exe
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket.pdb
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhanVien.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhanVien.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SanPham.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SanPham.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThongKeXuatNhap.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThongKeXuatNhap.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\EntityFramework.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\EntityFramework.SqlServer.dll
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\EntityFramework.xml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\bin\Debug\EntityFramework.SqlServer.xml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\SuperMarket_Content.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Password.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\Password.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhaCungCapList.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhaCungCapList.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ListDS.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ListDS.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\UpdateQuan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\UpdateQuan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThanhToan.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\ThanhToan.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\DanhSachKH_SP.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\DanhSachKH_SP.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\XemThongBaoNH.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\XemThongBaoNH.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\DuyetThongBao.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\DuyetThongBao.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\KhachHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\KhachHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\BanHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\BanHang.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhapHangBC.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\NhapHangBC.baml
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\TonHang.g.cs
+D:\Học Tập\Liên Thông\Nhập Môn Công Nghệ Phần Mềm\SuperMarket\SuperMarket\obj\Debug\TonHang.baml

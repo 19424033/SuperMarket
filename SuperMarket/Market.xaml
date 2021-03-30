@@ -1,0 +1,31 @@
+﻿<Window x:Class="SuperMarket.Market"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:SuperMarket"
+        mc:Ignorable="d" Height="670" Width="1080" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" WindowStyle="None">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="70"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Grid Height="70" VerticalAlignment="Top" Background="DeepSkyBlue">
+                <TextBlock Text="SUPER MARKET" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="36" FontWeight="Bold" FontFamily="Wide Latin"/>
+                <Button Name="Acc" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0 10 60 10" Click="Acc_Click" >
+                    <StackPanel Orientation="Horizontal">
+                        <materialDesign:PackIcon Kind="Account" Foreground="#FFED1D1D" Width="30" Height="30" VerticalAlignment="Center"/>
+                        <TextBlock Name="txtTK" Text="Tài Khoản" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="22"/>
+                    </StackPanel>
+                </Button>
+                <Button Name="exit" Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center" HorizontalAlignment="Right" Margin="0 10 0 10" Click="Exit_Click" >
+                    <materialDesign:PackIcon Kind="Power" Foreground="#FFED1D1D" Width="30" Height="30" />
+                </Button>
+            </Grid>
+        </DockPanel>
+        <DockPanel Grid.Row="1" Name="GridMain">
+        </DockPanel>
+    </Grid>
+</Window>

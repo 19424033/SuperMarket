@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="dd6374ce5ae84b439845952246ab9d15" Name="Diagram1" ZoomLevel="82">
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.CALAM" Width="1.5" PointX="0.75" PointY="4.375" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.CHITIETHOADON" Width="1.5" PointX="8.25" PointY="8.125" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.CHITIETPHIEUNHAPHANG" Width="1.5" PointX="5.25" PointY="4.375" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.CHUCVU" Width="1.5" PointX="1.5" PointY="16.375" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.HINHTHUCTHANHTOAN" Width="1.5" PointX="6" PointY="20.875" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.HOADON" Width="1.5" PointX="6" PointY="16.125" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.KHACHHANG" Width="1.5" PointX="3.75" PointY="16.375" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.KIEMKEKHO" Width="1.5" PointX="5.25" PointY="12.125" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.LOAISANPHAM" Width="1.5" PointX="0.75" PointY="8.75" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.NCC_SP" Width="1.5" PointX="8.25" PointY="4.5" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.NHACUNGCAP" Width="1.5" PointX="0.75" PointY="18.875" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.NHANVIEN" Width="1.5" PointX="0.75" PointY="11.25" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.PHANCA" Width="1.5" PointX="3" PointY="13.125" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.PHIEUNHAPHANG" Width="1.5" PointX="3" PointY="2.125" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.SANPHAM" Width="1.5" PointX="3" PointY="7.75" />
+        <EntityTypeShape EntityType="QLSieuThiMiNiModel.THANHTOAN" Width="1.5" PointX="8.25" PointY="16.375" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_PHANCA_CALAM" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_CHITIETHOADON_HOADON" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_CHITIETHOADON_SANPHAM" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_CHITIETPHIEUNHAPHANG_PHIEUNHAPHANG" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_CHITIETPHIEUNHAPHANG_SANPHAM" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_NHANVIEN_CHUCVU" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_THANHTOAN_HINHTHUCTHANHTOAN" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_HOADON_KHACHHANG" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_HOADON_NHAVIEN" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_THANHTOAN_HOADON" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_KIEMKEKHO_NHANVIEN" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_KIEMKEKHO_SANPHAM" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_SANPHAM_LOAISANPHAM" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_NCC_SP_NHACUNGCAP" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_NCC_SP_SANPHAM" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_PHIEUNHAPHANG_NHACUNGCAP" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_PHANCA_NHANVIEN" />
+        <AssociationConnector Association="QLSieuThiMiNiModel.FK_PHIEUNHAPHANG_NHANVIEN" />
+        </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

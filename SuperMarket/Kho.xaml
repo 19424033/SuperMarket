@@ -1,0 +1,72 @@
+﻿<UserControl x:Class="SuperMarket.Kho"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:SuperMarket"
+             mc:Ignorable="d" 
+             d:DesignHeight="560" d:DesignWidth="1080">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="30"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="40"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0" Background="AntiqueWhite">
+            <TextBlock FontWeight="Bold" Text="Quản Lý Kho Hàng" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="24" />
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <Canvas Name="filterCanvas" >
+                <TextBlock Name="hintText" Padding="5" Text="Tìm kiếm nhanh theo tên:" DockPanel.Dock="Left" Foreground="Black" FontWeight="Bold"/>
+                <TextBox Height="30" Foreground="Black" FontWeight="Bold" FontSize="14"
+                        LostFocus="KeywordTextBox_LostFocus"
+                        GotFocus="KeywordTextBox_GotFocus"  Background="Transparent"  Width="{Binding ElementName=filterCanvas, Path=ActualWidth}" Name="keywordTextBox" Text="" Padding="3, 3, 0, 0" 
+                             TextChanged="KeywordTextBox_TextChanged"/>
+            </Canvas>
+        </DockPanel>
+        <DockPanel Grid.Row="2">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="150"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="0">
+                    <Border BorderBrush="Black" BorderThickness="1">
+                        <ListView Name="dataListLSP" SelectionChanged="DataListLSP_SelectionChanged">
+                            <ListView.View>
+                                <GridView >
+                                    <GridViewColumn Header="Loại Sản Phẩm" DisplayMemberBinding="{Binding TenLoaiSP}" />
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Border>
+                </DockPanel>
+                <DockPanel Grid.Column="1">
+                    <Border BorderBrush="Black" BorderThickness="1">
+                        <ListView Name="dataTon" MouseDoubleClick="DataTon_MouseDoubleClick"  ScrollViewer.HorizontalScrollBarVisibility="Disabled"
+                                  ScrollViewer.VerticalScrollBarVisibility="Disabled">
+                            <ListView.View>
+                                <GridView>
+                                    <GridViewColumn Width="180" Header="Loại Sản Phẩm" DisplayMemberBinding="{Binding TenLoaiSP}" />
+                                    <GridViewColumn Width="180" Header="Mặt Sản Phẩm" DisplayMemberBinding="{Binding TenSP}" />
+                                    <GridViewColumn Width="150" Header="Giá mua"  DisplayMemberBinding="{Binding GiaMuaVao}" />
+                                    <GridViewColumn Width="100" Header="Số lượng"  DisplayMemberBinding="{Binding SoLuong}"/>
+                                    <GridViewColumn Width="150" Header="Số lượng kiểm kê" DisplayMemberBinding="{Binding SLKK}" />
+                                    <GridViewColumn Header="Số lượng chênh lệch" DisplayMemberBinding="{Binding SLCL}" />
+                                </GridView>
+                            </ListView.View>
+                        </ListView>
+                    </Border>
+                </DockPanel>
+            </Grid>
+        </DockPanel>
+        <StackPanel Orientation="Horizontal"  
+            Width="1080" 
+            Grid.Row="3" 
+            Background="{StaticResource WarningBrush}">
+            <Button Name="btnNhap" Content="Nhập Hàng" Margin="650 0 0 0" Click="BtnNhap_Click" Width="160" />
+            <Button Name="btnCapNhat" Content="Cập Nhật Số Lượng" Margin="50 0" Width="160" Click="BtnCapNhat_Click"/>
+        </StackPanel>
+    </Grid>
+</UserControl>

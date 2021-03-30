@@ -1,0 +1,257 @@
+﻿<UserControl x:Class="SuperMarket.SanPham"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:SuperMarket"
+             mc:Ignorable="d" 
+            d:DesignHeight="540" d:DesignWidth="1080">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="1.5*"/>
+        </Grid.RowDefinitions>
+        <DockPanel Grid.Row="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="2*"/>
+                </Grid.ColumnDefinitions>
+                <DockPanel Grid.Column="0" >
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="*"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <DockPanel Grid.Row="0">
+                            <GroupBox Style="{x:Null}" BorderBrush="Black" Width="360">
+                                <GroupBox.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontSize="18" Text="Loại Sản Phẩm" FontWeight="Bold"/>
+                                        <CheckBox Content="isActive"  Name="isActiveLSP" FontSize="18" Margin="125 0 0 0" HorizontalAlignment="Right" Click="IsActiveLSP_Click" />
+                                    </StackPanel>
+                                </GroupBox.Header>
+                                <DockPanel >
+                                    <Grid Margin="5 10 0 0" DockPanel.Dock="Bottom">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <DockPanel Grid.Column="0" HorizontalAlignment="Left" >
+                                            <Button Name="btnBack" Background="{StaticResource WarningBrush}" Content="&lt;" Width="40" Height="30" Margin="15 0" Click="BtnBack_Click" />
+                                            <Button Name="btnNext" Background="{StaticResource WarningBrush}" Content="&gt;" Width="40" Height="30" VerticalAlignment="Top" Click="BtnNext_Click" />
+                                        </DockPanel>
+                                        <DockPanel Grid.Column="1" HorizontalAlignment="Right">
+                                            <Button Background="DeepSkyBlue" Name="btnSave" Width="40" Height="30" Visibility="Hidden" Click="BtnSave_Click">
+                                                <materialDesign:PackIcon Kind="Done" Foreground="Yellow" Width="13"/>
+                                            </Button>
+                                            <Button Background="DeepSkyBlue" Name="btnThHuy" Width="50" Height="30" Margin="15 0" Click="BtnThHuy_Click">
+                                                <materialDesign:PackIcon Kind="Plus" Foreground="Yellow" Width="13"/>
+                                            </Button>
+                                        </DockPanel>
+                                    </Grid>
+                                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" >
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Tên Loại: " FontSize="18" Width="100" Margin="20 5 0 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <Canvas>
+                                                <TextBox Height="30" Foreground="Black" FontWeight="Bold" FontSize="15"  Name="TenLoai"       
+                         Background="Transparent" Width="200"  Padding="3, 0, 0, 0" TextChanged="TenLoai_TextChanged"/>
+                                            </Canvas>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </DockPanel>
+                            </GroupBox>
+                        </DockPanel>
+                        <DockPanel Grid.Row="1">
+                            <GroupBox Style="{x:Null}" BorderBrush="Black" Width="360">
+                                <GroupBox.Header>
+                                    <StackPanel Orientation="Horizontal">
+                                        <TextBlock FontSize="18" Text="Nhà Cung Cấp" FontWeight="Bold"/>
+                                        <CheckBox Name="isActiveNCC" Content="isActive" FontSize="18" Margin="130 0 0 0" HorizontalAlignment="Right" Click="IsActiveNCC_Click" />
+                                    </StackPanel>
+                                </GroupBox.Header>
+                                <DockPanel >
+                                    <Grid Margin="5 10 0 0" DockPanel.Dock="Bottom">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="*"/>
+                                            <ColumnDefinition Width="*"/>
+                                        </Grid.ColumnDefinitions>
+                                        <DockPanel Grid.Column="0" HorizontalAlignment="Left" >
+                                            <Button Name="btnBackNCC" Background="{StaticResource WarningBrush}" Content="&lt;" Width="40" Height="30" Margin="15 0" Click="BtnBackNCC_Click" />
+                                            <Button Name="btnNextNCC" Background="{StaticResource WarningBrush}" Content="&gt;" Width="40" Height="30" VerticalAlignment="Top" Click="BtnNextNCC_Click"/>
+                                        </DockPanel>
+                                        <DockPanel Grid.Column="1" HorizontalAlignment="Right">
+                                            <Button Background="DeepSkyBlue" Name="btnSaveNCC" Width="40" Height="30" Visibility="Hidden" Click="BtnSaveNCC_Click">
+                                                <materialDesign:PackIcon Kind="Done" Foreground="Yellow" Width="13"/>
+                                            </Button>
+                                            <Button Background="DeepSkyBlue" Name="btnThHuyNCC" Width="50" Height="30" Margin="15 0" Click="BtnThHuyNCC_Click">
+                                                <materialDesign:PackIcon Kind="Plus" Foreground="Yellow" Width="13"/>
+                                            </Button>
+                                        </DockPanel>
+                                    </Grid>
+                                    <StackPanel Orientation="Horizontal" VerticalAlignment="Top" >
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Nhà C.Cấp: " FontSize="18" Width="100" Margin="20 5 0 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <Canvas>
+                                                <TextBox Height="30" Foreground="Black" FontWeight="Bold" FontSize="15"  Name="TenNCC"       
+                         Background="Transparent" Width="200"  Padding="3, 0, 0, 0" TextChanged="TenNCC_TextChanged"/>
+                                            </Canvas>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </DockPanel>
+                            </GroupBox>
+                        </DockPanel>
+                    </Grid>
+                </DockPanel>
+                <DockPanel Grid.Column="1" >
+                    <GroupBox Style="{x:Null}" BorderBrush="Black" Width="720">
+                        <GroupBox.Header>
+                            <StackPanel Orientation="Horizontal" Margin="5 0">
+                                <TextBlock FontSize="18" Text="Thông Tin Sản Phẩm" FontWeight="Bold"/>
+                                <CheckBox Name="isActiveSP" Visibility="Hidden" Content="isActive" FontSize="18" Margin="400 0 0 0" HorizontalAlignment="Right" />
+                            </StackPanel>
+                        </GroupBox.Header>
+                        <StackPanel>
+                            <Grid Margin="0 5">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <StackPanel Grid.Column="0">
+                                    <StackPanel Orientation="Horizontal" >
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Sản Phẩm: " FontSize="18" Width="100" Margin="10 5 10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <TextBox Name="txtTenSP" Width="180" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Đơn Giá: " FontSize="18" Width="100" Margin="10 5 10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <TextBox Name="txtDG" Width="180" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                                <StackPanel Grid.Column="1">
+                                    <StackPanel Orientation="Horizontal" Margin="0 5 0 0">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Loại SP: " FontSize="18" Width="100" Margin="10 7 10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <ComboBox Name="cbLSP" Width="180"  FontSize="18" >
+                                            </ComboBox>
+                                        </StackPanel>
+                                    </StackPanel>
+                                    <StackPanel Orientation="Horizontal" Margin="0 10 0 10">
+                                        <StackPanel HorizontalAlignment="Left">
+                                            <TextBlock Text="Kh.Mãi (%): " FontSize="18" Width="100" Margin="10 5 10 0"/>
+                                        </StackPanel>
+                                        <StackPanel HorizontalAlignment="Right">
+                                            <TextBox Name="txtKM" Width="100" FontSize="18"/>
+                                        </StackPanel>
+                                    </StackPanel>
+                                </StackPanel>
+                            </Grid>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="3*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <DockPanel Grid.Column="0">
+                                    <Button Name="btnAddNCC" Content="Nhà Cung Cấp SP" Width="150" Click="BtnAddNCC_Click"  IsEnabled="False"/>
+                                </DockPanel>
+                                <DockPanel Grid.Column="1">
+                                    <Button Name="btnAddSP" Content="Thêm" Width="100" Click="BtnAddSP_Click"/>
+                                </DockPanel>
+                                <DockPanel Grid.Column="2">
+                                    <Button Name="btnUpdateSP" Content="Cập Nhật" Width="100" IsEnabled="False" VerticalAlignment="Top" Click="BtnUpdateSP_Click"/>
+                                </DockPanel>
+                                <DockPanel Grid.Column="3">
+                                    <Button  Name="btnCancelSP" Content="Hủy" Width="100" IsEnabled="False" Background="Red" Click="BtnCancelSP_Click"/>
+                                </DockPanel>
+                            </Grid>
+                        </StackPanel>
+                    </GroupBox>
+                </DockPanel>
+            </Grid>
+        </DockPanel>
+        <DockPanel Grid.Row="1">
+            <GroupBox Style="{x:Null}" BorderBrush="Black" Width="1080">
+                <GroupBox.Header>
+                    <StackPanel Orientation="Horizontal" Margin="5">
+                        <TextBlock FontSize="18" Text="Danh Sách Sản Phẩm" FontWeight="Bold"/>
+                    </StackPanel>
+                </GroupBox.Header>
+                <DockPanel>
+                    <Grid>
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="30"/>
+                            <RowDefinition Height="*"/>
+                        </Grid.RowDefinitions>
+                        <DockPanel Grid.Row="0">
+                            <Canvas Name="filterCanvas" Height="30">
+                                <TextBlock Name="hintText" Padding="5" Text="Tìm kiếm nhanh theo tên:" DockPanel.Dock="Left" Foreground="Black" FontWeight="Bold" FontSize="15"/>
+                                <TextBox Height="30"  Foreground="Black" FontWeight="Bold" FontSize="15" GotFocus="KeywordTextBox_GotFocus" TextChanged="KeywordTextBox_TextChanged" LostFocus="KeywordTextBox_LostFocus"
+                         Background="Transparent"  Width="{Binding ElementName=filterCanvas, Path=ActualWidth}" Name="keywordTextBox" Text="" Padding="3, 0, 0, 0" />
+                            </Canvas>
+                        </DockPanel>
+                        <DockPanel Grid.Row="1">
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="5*"/>
+                                </Grid.ColumnDefinitions>
+                                <DockPanel Grid.Column="0">
+                                    <Border BorderBrush="Black" BorderThickness="1">
+                                        <ListView Name="dataLSP" MouseDoubleClick="DataLSP_MouseDoubleClick" SelectionChanged="DataLSP_SelectionChanged" 
+                                          ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                            <ListView.View>
+                                                <GridView>
+                                                    <GridViewColumn Header="Loại Sản Phẩm" DisplayMemberBinding="{Binding TenLoaiSP}"/>
+                                                </GridView>
+                                            </ListView.View>
+                                        </ListView>
+                                    </Border>
+                                </DockPanel>
+                                <DockPanel Grid.Column="1" Margin="5 0 0 0">
+                                    <Border BorderBrush="Black" BorderThickness="1">
+                                        <ListView Name="dataSP" SelectionChanged="DataSP_SelectionChanged"  ScrollViewer.VerticalScrollBarVisibility="Disabled" ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                                            <ListView.View>
+                                                <GridView>
+                                                    <GridViewColumn Width="150" Header="Tên Loại" DisplayMemberBinding="{Binding TenLoaiSP}"/>
+                                                    <GridViewColumn Width="100" Header="Mã SP" DisplayMemberBinding="{Binding MaSP}"/>
+                                                    <GridViewColumn Width="200" Header="Tên Sản Phẩm" DisplayMemberBinding="{Binding TenSP}"/>
+                                                    <GridViewColumn Width="130" Header="Giá" DisplayMemberBinding="{Binding GiaBanRa, StringFormat={}{0:n0} đ}"/>
+                                                    <GridViewColumn Width="130" Header="Khuyến Mãi" DisplayMemberBinding="{Binding Path=KhuyenMai}"/>
+                                                    <GridViewColumn Width="100" Header="Số Lượng" DisplayMemberBinding="{Binding Path=SoLuong}"/>
+                                                    <GridViewColumn Header="Thuế"  >
+                                                        <GridViewColumn.CellTemplate>
+                                                            <DataTemplate>
+                                                                <CheckBox IsChecked="{Binding Path=VAT,Mode=OneWay}" IsEnabled="False" />
+                                                            </DataTemplate>
+                                                        </GridViewColumn.CellTemplate>
+                                                    </GridViewColumn>
+                                                </GridView>
+                                            </ListView.View>
+                                        </ListView>
+                                    </Border>
+                                </DockPanel>
+                            </Grid>
+                        </DockPanel>
+                    </Grid>
+                </DockPanel>
+            </GroupBox>
+        </DockPanel>
+    </Grid>
+</UserControl>
+
